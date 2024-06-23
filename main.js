@@ -21,25 +21,25 @@ const curr_track = document.createElement("audio");
 
 const track_list = [
   {
-    name: "Track 1",
-    artist: "placeholder artist",
+    name: "Засыпая",
+    artist: "Smoke Killa",
     image:
       "https://cdn2.thecatapi.com/images/755.jpg",
-    path: "placeholder for track",
+    path: "https://s144iva.storage.yandex.net/get-mp3/3163e41bb1fc95fd99fa3a12bb76fdfd/00061b8bc01e492e/rmusic/U2FsdGVkX1-Wr9-fqbG6vnhZ-tb8EFGjO2ozbt3W6jN9pb3H2fDhLEhoZV_5iOAPT4qd38PYXAQVOnYyoSV9CbzfLyF4NOHOJVCNdetaF1Q/a77477ce0865525bf500a2059d0702695d0372b388cce6807dc8c01878b572b2/5355?track-id=122691621&play=false",
   },
   {
-    name: "Track 2",
-    artist: "placeholder artist 2",
+    name: "Dark Paradise",
+    artist: "LANA DEL RAY",
     image:
       "https://cdn2.thecatapi.com/images/MTU3Mzk5Mw.jpg",
-    path: "placeholder for track",
+    path: "https://s777sas.storage.yandex.net/get-mp3/937954548814bd52d55cc7dfeda549df/00061b8c058e4f72/rmusic/U2FsdGVkX18PGI4jn31JxBtuyGrLdUJALcNqi2_ac-Oc-AGQhQ25HkaPW--oa2cQB6zalQyxVdycTWuvunjSMe7QmN_GYvQ022Bx0HZlbvg/cd76f10f4978f18c3f97fefc20be488754e06d95f6ef100a2a75551cdd746aa3/5355?track-id=3616429&play=false",
   },
   {
-    name: "Track 3",
-    artist: "placeholder artist 2",
+    name: "Хулиган",
+    artist: "Челленджер",
     image:
       "https://cdn2.thecatapi.com/images/b9m.jpg",
-    path: "placeholder for track",
+    path: "https://s128vlx.storage.yandex.net/get-mp3/eabf86cba369bb3173344143708eee96/00061b8c0f0f327b/rmusic/U2FsdGVkX1-kBIiqVoCM_hX-bgUe5K4Il7QzSM-9Vuq0uInlo01MxwLEVVyI0J7a4wlVGpxqHb36w5KAK8VIdKpj0MOG783pLNlcGjc0i68/e98545c962f4b26a287fb6e733eb7847120cd13b5d005323e515703c727e2cf4?track-id=14631789&play=false",
   },
 ];
 
